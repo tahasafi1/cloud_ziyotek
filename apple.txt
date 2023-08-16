@@ -4,3 +4,11 @@ hello shuhrat
 
 
 Hello everyone
+
+
+
+
+
+
+
+print(hello cloud)
