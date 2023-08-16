@@ -3,7 +3,7 @@
 # This script is rock scissor paper game
 
 #
-
+# change
 
 echo "Rock, Paper, Scissors"
 
@@ -183,3 +183,11 @@ done   #second while loop for continious input of player
 
 
 done   #First loop for continious game
+
+
+
+
+
+
+
+# stop
