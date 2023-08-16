@@ -2,8 +2,13 @@
 
 # This script is rock scissor paper game
 
+<<<<<<< HEAD
 #Ibrohim
 
+=======
+#
+# change
+>>>>>>> 2053be1cba8b0734dc0ac26a299680c4099cbd12
 
 echo "Rock, Paper, Scissors"
 
@@ -183,3 +188,11 @@ done   #second while loop for continious input of player
 
 
 done   #First loop for continious game
+
+
+
+
+
+
+
+# stop
