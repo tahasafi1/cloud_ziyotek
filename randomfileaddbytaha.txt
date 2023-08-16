@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#I wanted to just test pushing a file into the remote repository after it is commited to the local repository
+
+#thank you for reading
+
+#end of script
