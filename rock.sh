@@ -2,7 +2,7 @@
 
 # This script is rock scissor paper game
 
-#
+#Ibrohim
 
 
 echo "Rock, Paper, Scissors"
@@ -85,7 +85,7 @@ then
 fi
 
 
-#Display what the computer chose:
+#Display what the computer  chose:
 
 
 random_number=$(expr 1 + $RANDOM % 3 );   #Generates random number between 1, 2, and 3
